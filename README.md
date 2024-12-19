@@ -1,6 +1,7 @@
 News Sentiment Analysis Project
 ________________________________________
 Overview
+
 This project applies sentiment analysis to classify news headlines into three categories: positive, negative, or neutral. By leveraging natural language processing (NLP) techniques and machine learning algorithms, the system aims to uncover the tone or sentiment embedded in news headlines. This analysis can be applied to media monitoring, trend identification, and audience sentiment tracking.
 
 Project Workflow
